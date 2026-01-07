@@ -1,6 +1,6 @@
-# exxcd
+# Realtime Go + React
 
-A light-weight implementation exxcd trading terminal
+The backend implementation for the software real-time system using `Go` routine and `context.Context` to enforce deadline and back-pressure.
 
 ## Requirements
 
